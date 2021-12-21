@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections;
 
-namespace Integrador
+namespace Tienda_virtual
 {
 	/// <summary>
 	/// Description of Cliente.

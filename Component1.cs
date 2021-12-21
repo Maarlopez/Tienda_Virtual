@@ -5,7 +5,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Text;
 
-namespace Integrador
+namespace Tienda_virtual
 {
     public partial class Component1 : Component
     {

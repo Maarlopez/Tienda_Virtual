@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Integrador
+namespace Tienda_virtual
 {
 	class Program
 	{

@@ -1,4 +1,4 @@
-﻿namespace Integrador
+﻿namespace Tienda_virtual
 {
     partial class Component1
     {
