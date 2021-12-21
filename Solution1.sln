@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D88DF76D-5155-4093-9F51-AB25F472A3F4}"
+	ProjectSection(SolutionItems) = preProject
+		Carro.cs = Carro.cs
+		Cliente.cs = Cliente.cs
+		Component1.cs = Component1.cs
+		Component1.Designer.cs = Component1.Designer.cs
+		Interface1.cs = Interface1.cs
+		ListaClientes.cs = ListaClientes.cs
+		ListaProductos.cs = ListaProductos.cs
+		ListaTarjetas.cs = ListaTarjetas.cs
+		Menu.cs = Menu.cs
+		Producto.cs = Producto.cs
+		Program.cs = Program.cs
+		Tarjeta.cs = Tarjeta.cs
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tienda virtual", "Tienda virtual\Tienda virtual.csproj", "{A11B9B71-993C-4D43-A42C-3F4219D76B48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A11B9B71-993C-4D43-A42C-3F4219D76B48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A11B9B71-993C-4D43-A42C-3F4219D76B48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A11B9B71-993C-4D43-A42C-3F4219D76B48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A11B9B71-993C-4D43-A42C-3F4219D76B48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A11B9B71-993C-4D43-A42C-3F4219D76B48} = {D88DF76D-5155-4093-9F51-AB25F472A3F4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9170C956-EDC4-4A60-B63B-2AD8C4DAFB34}
+	EndGlobalSection
+EndGlobal
